@@ -14,3 +14,5 @@ WITHOUT BASH:
 1. Download NodeJS.
 2. Go to the PCE directory.
 3. Go to the OS Directory you want. ( MAC = Mac Plus IBM = MS-DOS AST = ATARI ST )
+4. `npm install`
+5. http-server -p [localhost port]
