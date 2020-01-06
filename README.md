@@ -1,6 +1,10 @@
-# Windows95-JS
-A Windows 95 emulator for NodeJS
+# PCE-JS-ALL
+An emulator for NodeJS
 
-Windows95-JS is a project that uses PCE.js
+PCE-JS-ALL is a project that uses PCE.js
 
-The plan is to update the IBM-PC to Windows 95, then copy all of the files in ths repo.
+PCE-JS-ALL is a repo that has all of the OS emulators in PCE.js, it has a simple launcher too! (Only for linux, or anything that runs bash)
+
+SOON:
+
+I will import a feature into the "Easy Launcher" that you can change the port of the http server.
